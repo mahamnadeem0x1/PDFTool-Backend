@@ -1,0 +1,6 @@
+.env
+uploads/
+converted/
+__pycache__/
+*.pyc
+*.log
